@@ -36,6 +36,8 @@ This module requires:
 - WordPress 4.8+
 - Fulcrum 3+
 
+Unlike the other Fulcrum modules, **the Widget module is not a standalone module**.  It is highly dependent upon [Fulcrum](https://github.com/wpfulcrum/fulcrum).
+
 ## Contributing
 
 All feedback, bug reports, and pull requests are welcome.
