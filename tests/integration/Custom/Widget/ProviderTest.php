@@ -2,9 +2,7 @@
 
 namespace Fulcrum\Tests\Integration\Custom\Widget;
 
-use Fulcrum\Custom\Shortcode\Shortcode;
 use Fulcrum\Custom\Widget\ShortcodeProvider;
-use Fulcrum\Custom\Widget\Widget;
 use Fulcrum\Custom\Widget\WidgetProvider;
 use Fulcrum\Tests\Integration\IntegrationTestCase;
 use Mockery;

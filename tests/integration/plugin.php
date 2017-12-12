@@ -1,19 +1,19 @@
 <?php
 /**
- * Custom Post Type Plugin
+ * Custom Widget Plugin
  *
- * @package         Custom Post Type
+ * @package         Custom Widget
  * @author          hellofromTonya
  * @license         MIT
- * @link            https://github.com/wpfulcrum/post-type
+ * @link            https://github.com/wpfulcrum/widget
  *
  * @wordpress-plugin
- * Plugin Name:     Custom Post Type Plugin
- * Plugin URI:      https://github.com/wpfulcrum/post-type
- * Description:     Fulcrum Post Type Module - custom post types made easy.
- * Version:         3.0.0
+ * Plugin Name:     Custom Widget Plugin
+ * Plugin URI:      https://github.com/wpfulcrum/widget
+ * Description:     Fulcrum Widget Module
+ * Version:         3.0.1
  * Author:          hellofromTonya
- * Author URI:      https://github.com/wpfulcrum/post-type
+ * Author URI:      https://github.com/wpfulcrum/widget
  * Text Domain:     fulcrum
  * Requires WP:     4.9
  * Requires PHP:    5.6
